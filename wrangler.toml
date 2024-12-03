@@ -1,0 +1,4 @@
+name="my-app"
+main="src/app.py"
+compatibility_flags=["python_worker"]
+compatibility_date="2024-12-03
